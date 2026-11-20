@@ -29,16 +29,6 @@ Sou estudante da área de tecnologia, com experiência em suporte técnico e int
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rener-moreira&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rener-moreira&layout=compact&theme=transparent&hide_border=true)
-
-</div> -->
-
 ---
 
 ## 📫 Contato
